@@ -102,7 +102,7 @@
 
     if (sub) {
       sub.textContent = available
-        ? available + ' caselle disponibili \u00B7 tocca per scoprire'
+        ? available + ' boxes available \u00B7 click to reveal'
         : 'Starts on December 1st \u2728';
     }
   }
